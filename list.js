@@ -26,6 +26,9 @@ else if (elementId === 'bm6') {
 else if (elementId === 'bm7') {
     window.open(href="list/bm7.pdf",'chat AI','resizable,height=300,width=500');
 }
+else if (elementId === '2-man CPR video') {
+    window.open(href="https://youtube.com/shorts/vN2prCZt8Gw?si=VFqkyeAsojjw9ITG",'chat AI','resizable,height=300,width=500');
+}
 else if (elementId === '2-man CPR notes') {
     window.open(href="list/2-man CPR notes.pdf",'chat AI','resizable,height=300,width=500');
 }
