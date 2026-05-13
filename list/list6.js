@@ -49,7 +49,7 @@ function displayAnswer(elementId) {
     alert(`First 7 ribs per side attaches the sternum, next 3 attaches just the ribs. Last 2 ribs lie free.  Intercostal muscles between ribs aids in breathing.  The bottom has a diaphragm separated from the abdomen.  (References from SLSS manual)`);
 
 } else if (elementId === 'diaphragm') {
-    alert(`A sheet of strong fibrous muscular tissue with circumference attached to the thoriacic cavity, movement designed for inpsirationa and expiration.  (References from SLSS manual)`);
+    alert(`A sheet of strong fibrous muscular tissue with circumference attached to the thoriacic cavity, movement designed for inspirational and expiration.  (References from SLSS manual)`);
 
 } else if (elementId === 'pleura') {
     alert(`Two layers of very thin membrane, layer one covers the lungs, other layer lines the chest wall. Closed space between both layers contains a very thin layer of lubricant to facilitate movement.
