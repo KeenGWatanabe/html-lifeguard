@@ -157,6 +157,10 @@ function displayAnswer(elementId) {
     .  (References from SLSS manual)`);
     //s6RespiratorySystem.html***
     //s6CardiovascularSystem.html*
+} else if (elementId === 'bloodflow') { 
+    window.open(href="https://drive.google.com/file/d/1aMs6vH8a82_QJa1t4D_po79b6KXQF-NX/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
+               );
+            
 } else if (elementId === 'cardiovascular') {
     alert(`circulatory system = heart and blood vessels;
     heart muscle - heart's rhythmic contraction and relaxation;
