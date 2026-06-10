@@ -160,6 +160,9 @@ function displayAnswer(elementId) {
 } else if (elementId === 'bloodflow') { 
     window.open(href="https://drive.google.com/file/d/1aMs6vH8a82_QJa1t4D_po79b6KXQF-NX/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
                );
+} else if (elementId === 'bloodcomposition') { 
+    window.open(href="https://drive.google.com/file/d/1l-xZXjm99FC0spGkp10RtDy4hxtraAOC/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
+               );            
             
 } else if (elementId === 'cardiovascular') {
     alert(`circulatory system = heart and blood vessels;
