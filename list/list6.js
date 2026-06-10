@@ -5,7 +5,10 @@ function displayAnswer(elementId) {
     
         if (elementId === 'respiratory intro') {
         alert(`We are respiratory organisms, every cell in the body needs oxygen for survival.  Our respiratory system consists of all organs, tissues and structures that facilitates breathing.  Respiratory failures or malfunctions are considered emergencies.`);  
-        
+
+} else if (elementId ==== 'ls respiratory notes1') {
+    window.open(href="https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk", target="_blank", rel="noopener noreferrer");
+            
 } else if (elementId === 'pharynx') {
     alert(`*Pharynx*
     A short path for air & food leading to two tubes: gullet (oesophagus) for food and fluid to the stomach, windpipe (trachea) for air to the lungs.(References from SLSS manual)`);
