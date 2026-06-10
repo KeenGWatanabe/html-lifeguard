@@ -7,10 +7,9 @@ function displayAnswer(elementId) {
         alert(`We are respiratory organisms, every cell in the body needs oxygen for survival.  Our respiratory system consists of all organs, tissues and structures that facilitates breathing.  Respiratory failures or malfunctions are considered emergencies.`
              );  
 
-} else if (elementId ==== 'RespiratoryNote1') {
-    window.open(href="https://youtu.be/gU_n4xYFKlM?si=SEjbdWq8PWcu572_",'chat AI','resizable,height=300,width=500');        
-    // window.open(href="https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
-    //            );
+} else if (elementId ==== 'RespiratoryNote1') { 
+    window.open(href="https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
+               );
 
 } else if (elementId ==== 'ls respiratory notes2') {
     window.open(href="https://drive.google.com/file/d/1fCxNR1OrcHzF1pCivL_r3al7fmfYNo03/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
