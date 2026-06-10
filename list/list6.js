@@ -8,8 +8,9 @@ function displayAnswer(elementId) {
              );  
 
 } else if (elementId ==== 'ls respiratory notes1') {
-    window.open(href="https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
-               );
+    window.open(href="https://youtu.be/gU_n4xYFKlM?si=SEjbdWq8PWcu572_",'chat AI','resizable,height=300,width=500');        
+    // window.open(href="https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
+    //            );
 
 } else if (elementId ==== 'ls respiratory notes2') {
     window.open(href="https://drive.google.com/file/d/1fCxNR1OrcHzF1pCivL_r3al7fmfYNo03/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
