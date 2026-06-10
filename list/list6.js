@@ -8,6 +8,9 @@ function displayAnswer(elementId) {
 
 } else if (elementId ==== 'ls respiratory notes1') {
     window.open(href="https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk", target="_blank", rel="noopener noreferrer");
+
+} else if (elementId ==== 'ls respiratory notes2') {
+    window.open(href="https://drive.google.com/file/d/1fCxNR1OrcHzF1pCivL_r3al7fmfYNo03/view?usp=drivesdk", target="_blank", rel="noopener noreferrer");
             
 } else if (elementId === 'pharynx') {
     alert(`*Pharynx*
