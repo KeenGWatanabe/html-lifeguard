@@ -43,9 +43,9 @@ function displayAnswer(elementId) {
 
 } else if (elementId === 'gas exchange') {
     alert(`*oxygen in*
-    The oxygen breathed in, passes thin walls of the alveoli is taken up by blood through capillaries surrounding the alveioli. Transported by pulmonary artery.
+    The oxygen breathed in, passes thin walls of the alveoli is taken up by blood through capillaries surrounding the alveioli. Transported by systemic artery.
     *carbon dioxide out*
-    Carbon dioxide passes in the opposite direction from the capillaries into the alveoli. Transported by pulmonary vein.
+    Carbon dioxide passes in the opposite direction from the capillaries into the alveoli. Transported by systemic vein.
     (References from SLSS manual)`);
 
 } else if (elementId === 'lungs') {
