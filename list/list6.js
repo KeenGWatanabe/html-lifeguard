@@ -8,11 +8,11 @@ function displayAnswer(elementId) {
              );  
 
 } else if (elementId ==== 'RespiratoryNote1') { 
-    window.open(href="https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
+    window.open("https://drive.google.com/file/d/1vxGq5drnrSI5UGTbd8Uaz9Q-sydjFFn4/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
                );
 
 } else if (elementId ==== 'RespiratoryNote2') {
-    window.open(href="https://drive.google.com/file/d/1fCxNR1OrcHzF1pCivL_r3al7fmfYNo03/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
+    window.open("https://drive.google.com/file/d/1fCxNR1OrcHzF1pCivL_r3al7fmfYNo03/view?usp=drivesdk",'chat AI','resizable,height=300,width=500'
                );
             
 } else if (elementId === 'pharynx') {
