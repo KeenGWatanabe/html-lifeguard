@@ -31,6 +31,12 @@ else if (elementId === '2-man CPR video') {
 }
 else if (elementId === '2-man CPR notes') {
     window.open(href="list/2-man CPR notes.pdf",'chat AI','resizable,height=300,width=500');
+}    
+else if (elementId === 'SNR papaer1') {
+    window.open(href="list/SNR papaer1.pdf",'chat AI','resizable,height=300,width=500');
+}
+else if (elementId === 'SNR papaer2') {
+    window.open(href="list/SNR paper2.pdf",'chat AI','resizable,height=300,width=500');
 }
 else if (elementId === '2-man CPR checklist') {
     window.open(href="list/2-man CPR checklist.pdf",'chat AI','resizable,height=300,width=500');
