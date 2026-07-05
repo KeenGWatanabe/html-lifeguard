@@ -33,7 +33,7 @@ else if (elementId === '2-man CPR notes') {
     window.open(href="list/2-man CPR notes.pdf",'chat AI','resizable,height=300,width=500');
 }    
 else if (elementId === 'SNR paper1') {
-    window.open(href="list/Senior Resuscitation Papaer 1.pdf",'chat AI','resizable,height=300,width=500');
+    window.open(href="list/Senior Resuscitation Paper 1.pdf",'chat AI','resizable,height=300,width=500');
 }
 else if (elementId === 'SNR paper2') {
     window.open(href="list/Senior Resuscitation Paper 2.pdf",'chat AI','resizable,height=300,width=500');
