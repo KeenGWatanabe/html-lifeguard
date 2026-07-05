@@ -33,7 +33,7 @@ else if (elementId === '2-man CPR notes') {
     window.open(href="list/2-man CPR notes.pdf",'chat AI','resizable,height=300,width=500');
 }    
 else if (elementId === 'SNR paper1') {
-    window.open(href="https://drive.google.com/file/d/1sMBC1Hvjp_CTQ8UCjrTRH4HIWdyEfm5A/view?usp=drivesdk",'chat AI','resizable,height=300,width=500');
+    window.open(href="https://drive.google.com/file/d/1otRhYCG7jP7eIKrGZ37Yb9Vsks7lCIqQ/view?usp=drivesdk",'chat AI','resizable,height=300,width=500');
 }
 else if (elementId === 'SNR paper2') {
     window.open(href="https://drive.google.com/file/d/1S2zNltdvf8a7owKpMVbObIUiiP_R9CdQ/view?usp=drivesdk",'chat AI','resizable,height=300,width=500');
