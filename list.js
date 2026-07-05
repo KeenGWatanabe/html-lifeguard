@@ -33,10 +33,10 @@ else if (elementId === '2-man CPR notes') {
     window.open(href="list/2-man CPR notes.pdf",'chat AI','resizable,height=300,width=500');
 }    
 else if (elementId === 'SNR paper1') {
-    window.open(href="list/Senior Resuscitation Paper 1.pdf",'chat AI','resizable,height=300,width=500');
+    window.open(href="https://drive.google.com/file/d/1sMBC1Hvjp_CTQ8UCjrTRH4HIWdyEfm5A/view?usp=drivesdk",'chat AI','resizable,height=300,width=500');
 }
 else if (elementId === 'SNR paper2') {
-    window.open(href="list/Senior Resuscitation Paper 2.pdf",'chat AI','resizable,height=300,width=500');
+    window.open(href="https://drive.google.com/file/d/1S2zNltdvf8a7owKpMVbObIUiiP_R9CdQ/view?usp=drivesdk",'chat AI','resizable,height=300,width=500');
 }
 else if (elementId === '2-man CPR checklist') {
     window.open(href="list/2-man CPR checklist.pdf",'chat AI','resizable,height=300,width=500');
