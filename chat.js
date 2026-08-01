@@ -6,9 +6,9 @@ const keywordResponses = {
 	"date": `Today is ${new Date().toLocaleDateString()}.`,
 	"goodbye" : "Goodbye! Have a great day!",
 	"unbelievable": "yes unbelievable",
-	"lifesaving1": "Reach, Throw, Wade, Accompanied Rescue 25m",
-	"lifesaving2": "airway, vomitting, recovery, throw rope, board tow 25m",
-	"lifesaving3": "sculling, thread, assisted landing, EAR shallow rescue, EAR 20m deep rescue, defense & release",
+	"teach ls1": "Reach, Throw, Wade, Accompanied Rescue 25m",
+	"teach ls2": "airway, vomitting, recovery, throw rope, board tow 25m",
+	"teach ls3": "sculling, thread, assisted landing, EAR shallow rescue, EAR 20m deep rescue, defense & release",
 	};
 function processInput() {
 	const userInput = document.getElementById("text_a").value;
