@@ -20,7 +20,7 @@ for (const keyword in keywordResponses) {
 	if (input.includes(keyword)) {
 	response.textContent = keywordResponses[keyword];
 	return;
-}else if(input.toLowerCase().indexOf("ls1")>-1){response.innerHTML=`Reach, Throw, Wade, Accompanied Rescue 25m`;
+}else if(input.toLowerCase().indexOf("lifesaving1")>-1){response.innerHTML=`Reach, Throw, Wade, Accompanied Rescue 25m`;
 	return;
 		
 }else if(input.toLowerCase().indexOf("lss")>-1&&input.toLowerCase().indexOf("what")>-1){response.innerHTML=`SLSS - Singapore Life Saving Society<br>RLSS - Royal Life Saving Society<br>SLSAA - Surf Life Saving Association of Australia`;
