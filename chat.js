@@ -6,7 +6,7 @@ const keywordResponses = {
 	"date": `Today is ${new Date().toLocaleDateString()}.`,
 	"goodbye" : "Goodbye! Have a great day!",
 	"unbelievable": "yes unbelievable",
-	// Add more keywords and responses as needed
+	"lifesaving1": "Reach, Throw, Wade, Accompanied Rescue 25m",
 	};
 function processInput() {
 	const userInput = document.getElementById("text_a").value;
